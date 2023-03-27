@@ -13,6 +13,7 @@ fun main(){
     println("TEST")
     println("commit TEST2")
 
+    println("dokyung local branch test")
 
     val ticketA = Ticket("KoreanAir", "lee", "2023-03-09", 14)
     val ticketB = TicketNormal("KoreanAir", "lee", "2023-03-09", 14)
