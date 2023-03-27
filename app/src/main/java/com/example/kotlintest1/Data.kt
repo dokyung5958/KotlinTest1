@@ -9,6 +9,9 @@ class TicketNormal(val companyName : String, val name : String, var date : Strin
 
 
 fun main(){
+
+    println("TEST")
+
     val ticketA = Ticket("KoreanAir", "lee", "2023-03-09", 14)
     val ticketB = TicketNormal("KoreanAir", "lee", "2023-03-09", 14)
 
