@@ -71,14 +71,6 @@ fun checkNum(score : Int){
         2,3 -> println("this is 2 or 3")
         else -> println("I don't know")
 
-
-
-
-
-
-
-
-
     }
 
     //값을 만들어서 b를 리턴했다 -> Expression
